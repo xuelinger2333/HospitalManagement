@@ -1,0 +1,1 @@
+this is a hospital management cpp project.
